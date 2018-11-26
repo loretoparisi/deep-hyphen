@@ -1,4 +1,7 @@
-import pyphen
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+import hyphen as pyphen 
 import string
 import re
 import collections

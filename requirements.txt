@@ -1,0 +1,6 @@
+tensorflow==1.8.0
+keras==2.2.0
+PyHyphen==0.10
+google==2.0.1
+protobuf==3.4.0
+
